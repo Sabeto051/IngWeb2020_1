@@ -12,4 +12,25 @@
     font-family: "zetta", monospace, sans-serif;
     font-style: normal;
     font-variant: small-caps;
+    background-color: #afa;
+}
+.caja{
+    display: block;
+    height: 200px;
+    width: 480px;
+}
+
+#caja1{
+    float: right;
+    background-color: green;
+}
+
+#caja2{
+    float: left;
+    background-color: blue;
+}
+
+#caja3{    
+    background-color: black;
+    clear: both;
 }
